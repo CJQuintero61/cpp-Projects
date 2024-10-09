@@ -7,3 +7,5 @@ Data Structures and wanted to learn more outside of class and I wanted to really
 C++ to make my own projects sooner and outside of class. The Programming 1 and 2 files will be
 a little different than what a total beginner might have done, but that is due to me going 
 back to the stuff I learned earlier and doing more than what was required in class alone.
+I also will be following projects from here: https://github.com/nragland37/cpp-projects 
+as a guide for what I could work on.
