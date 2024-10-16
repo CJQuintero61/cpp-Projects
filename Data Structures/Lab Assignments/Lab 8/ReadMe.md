@@ -8,3 +8,4 @@ the funciton should reverse the entire word. For the second program, we had to u
 linked list template from [Assignment 2], and check if a list of values was a 
 palindrome. Example, 3 -> 4 -> 4 -> 3 -> NULL is a palindrome but 3 -> 4 -> 4 -> 5 -> NULL is not. 
 This lab did test my logical thinking and I am glad that I was able to solve this so it will be here.
+Christian Quintero 10/16/2024
