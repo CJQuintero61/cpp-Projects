@@ -104,6 +104,15 @@ int main()
     Queue3.printQueue();
     cout << "There are " << Queue3.getCount() << " nodes in the queue.\n";
     cout << endl;
+    cout << "Dequeuing 1 node...\n";
+    Queue3.dequeue();
+    cout << "Checking if [Queue3] is empty:\n";
+    if(Queue3.isEmpty())
+        cout << "The queue is empty.\n";
+    else
+        cout << "There are items in the queue.\n";
+    cout << endl;
+
 
 
 
